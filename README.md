@@ -1,5 +1,8 @@
 # Demographic Data Analyzer
 
+## Various Reference of this code is taken from sources like StackoverFlow, Freecodecamp, w3school etc.
+
+
 n this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
 |    |   age | workclass        |   fnlwgt | education   |   education-num | marital-status     | occupation        | relationship   | race   | sex    |   capital-gain |   capital-loss |   hours-per-week | native-country   | salary   |
